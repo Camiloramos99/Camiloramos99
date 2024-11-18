@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argentina. 🥐
+My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argentina. 
 
 <img src="https://github.com/Camiloramos99/Camiloramos99/blob/main/kaizen-quote.jpg?raw=true" alt="Kaizen Quote" style="width:65%;" />
 
