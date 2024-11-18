@@ -2,8 +2,8 @@
 
 My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argentina. 🥐
 
-## Cita Inspiradora
-![Kaizen Quote](https://github.com/Camiloramos99/tu-repositorio/assets/kaizen_quote.png)
+## Cita Inspiradora 
+![Kaizen Quote](https://github.com/Camiloramos99/Camiloramos99/blob/main/kaizen-quote.jpg?raw=true)
 
 ## 🛠  Technologies and tools
 
