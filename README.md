@@ -38,7 +38,13 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&logoColor=008CDD" alt="Stripe logo" title="Stripe" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Storybook-282C34?logo=storybook&logoColor=FF4785" alt="Storybook logo" title="Storybook" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
@@ -47,6 +53,9 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/camilo-ramos-ba40711a2/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Portfolio-282C34?logo=About.me&logoColor=FFFFFF" alt="Portfolio logo" title="Portfolio" height="25" />](https://camiloramos99.github.io/CamiloRamosPortfolio/)
+
 
 [tech_tools_anchor]: #tech_tools
 [learning_now_anchor]: #learning-now
