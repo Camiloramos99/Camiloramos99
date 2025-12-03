@@ -4,7 +4,7 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 
 <img src="https://github.com/Camiloramos99/Camiloramos99/blob/main/kaizen-quote.jpg?raw=true" alt="Kaizen Quote" style="width:65%;" />
 
-## 🛠  Technologies and tools
+## 🛠  I code with
 
 <a name="learning-now"></a>
 
@@ -51,7 +51,7 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/camilo-ramos-ba40711a2/)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/camilo-ramos-ba40711a2/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Portfolio-282C34?logo=About.me&logoColor=FFFFFF" alt="Portfolio logo" title="Portfolio" height="25" />](https://camiloramos99.github.io/)
 
