@@ -36,9 +36,7 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Camiloramos99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Camiloramos99&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ###
 
