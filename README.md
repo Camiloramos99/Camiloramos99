@@ -52,7 +52,7 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/camilo-ramos-ba40711a2/)
 &nbsp;
-[<img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />](https://camiloramos99.github.io/)
+[<img src="https://img.shields.io/static/v1?message=Site&label=&color=00a376&labelColor=&style=for-the-badge" height="35" alt="site badge" />](https://camiloramos99.github.io/)
 
 
 [tech_tools_anchor]: #tech_tools
