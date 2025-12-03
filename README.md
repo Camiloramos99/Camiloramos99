@@ -18,7 +18,6 @@ My name is Camilo Ramos. I am a frontend developer living in Buenos AIres, Argen
 <a href="https://github.com/Camiloramos99">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Camiloramos99&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Camiloramos99&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Camiloramos99&theme=2077" height="180em" />
 </div>
 
 
